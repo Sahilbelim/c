@@ -1,0 +1,20 @@
+1] vinterger -int =2 byte -%d
+2]float -float = 4 byte -%f 
+3] chareter charn = 1 byte - %c 
+
+
+variable_ datatype variable_name ;
+
+--------------------------------------
+
+int result;
+foat naswer ;
+char alphsbets;
+__________________________________________________
+
+<----less than
+>----great than
+==---equal to
+!=---not equal to
+<=---less than equal to
+>=---grear than equal to

@@ -1,0 +1,59 @@
+1 ]  write a program to print your
+
+2]  write a program to print number 
+
+3]  write a program to print address 
+
+-------------------------------------------
+
+1]  write a program to find area of rectangle
+
+2] write a program to find area of circle
+
+3] write a program to find area of  cone
+
+---------------------------------------------
+
+1] write a program to print your number using variable
+
+2] write a program to print first letter of your name 
+
+3] write a program to print all three datatype variable using one printf
+
+----------------------------------------------------------------------------
+
+1] write a program to take 5 digit number as input and display it 
+
+2] write a program to take input from user and find area of rectangle and triangle
+
+3] write a program to take one alphabet as a input and print it 
+
+4] write a program to perform swap function [ take input form user in two variable and exchange the value of both example if a=10 and b=5].
+
+[?] write a program to fideoutqube of given positive number 
+
+   Category    BMIrank Kg/m2
+   underwiight  <18.5
+   normal       18.5-25
+   overweight    25-30
+   obese class1  30-35
+   obese class11 35-40
+
+
+   [?]write a program to find total income tax and total salary
+
+   -->take monthly income from user
+   -->find yearly income 
+   -->fimd income 
+   -->net_income=yaerly+ Intrest
+   -->yearly income rate 
+   1,00,000 - 5%
+   5,00,000 - 15%
+   10,00,000 - 25%
+   50,00,000 - 35%
+
+   __________________________________________________
+
+   1] write a program to check wehter the given hieght width is square or not 
+
+   2] write a program to find which triangle is greater
